@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Obrigado por vir ate aqui
 
-Template Name: BizLand
-Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Nome do projecto: YourVision
+URL: yourvision.co.mz
+Autor: yuniztellis
+Contacto:  +258 82 000 7571
